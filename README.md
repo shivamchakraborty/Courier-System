@@ -1,5 +1,5 @@
 # Courier-System
-It is a software designed for companies that handle packages to monitor the logistics of storage and cargo handling to their final destination and managing employees and drivers so you can track all of your company.  This system is based on Laravel, the advantage of this software is that it is a web system, allowing it to be accessed from a PC, Tablet or Smartphone possessing an Internet connection and a webservices api’s ready (only for cargo mobile applications, until now we don’t have documenation for them).  The client have the ability to login and request or track his packages.
+It is a software designed for companies that handle packages to monitor the logistics of storage and handling to their final destination and managing employees and drivers so you can track all of your company.  This system is based on Laravel, the advantage of this software is that it is a web system, allowing it to be accessed from a PC, Tablet or Smartphone possessing an Internet connection and a webservices api’s ready (only for mobile applications, until now we don’t have documenation for them).  The client have the ability to login and request or track his packages.
 
 
 # FEATURES
@@ -12,7 +12,7 @@ Multi Currency: you can add any currency you need directly from your dashbaord
 
 # Introduction
 
-It is a software designed for companies that handle packages to monitor the logistics of storage and cargo handling to their final destination and manging employees and drivers so you can track all of your company. 
+It is a software designed for companies that handle packages to monitor the logistics of storage and handling to their final destination and manging employees and drivers so you can track all of your company. 
 
 **This documentation is to help you regarding using the item as you should and like you want. Please go through the documentation carefully to understand how this item is made.**
 
